@@ -1,4 +1,4 @@
-ripgrep (FULL_VERSION) DIST; urgency=low
+ripgrep (FULL_VERSION) stable; urgency=low
 
   * Repackage upstream ripgrep release as a Debian binary package.
 
